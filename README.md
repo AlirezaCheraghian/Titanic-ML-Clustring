@@ -78,13 +78,3 @@ numpy
 scikit-learn
 hdbscan
 matplotlib
-
-## File Structure
-titanic-analysis/
-├── notebooks/
-│   └── titanic.ipynb          # Main analysis notebook
-├── data/
-│   └── titanic.csv            # Original dataset
-├── reports/
-│   └── README.md              # Project documentation
-└── figures/                   # Visualization outputs
