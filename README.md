@@ -37,7 +37,8 @@ This project analyzes Titanic passenger data using clustering techniques (HDBSCA
   - hdbscan
   - matplotlib
 
-## File Structuretitanic/
+## File Structure
+titanic/
 ├── titanic.ipynb # Main Jupyter notebook with analysis code
 ├── titanic.csv # Dataset file
 └── README.md # Project documentation
